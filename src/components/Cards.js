@@ -16,7 +16,7 @@ function Cards() {
                             path='/services' 
                         />
                         <CardItem 
-                            src={require('../images/img-3.jpg').default} 
+                            src={require('../images/img-3.jpg').default}
                             text='so good' 
                             label='what' 
                             path='/services' 
