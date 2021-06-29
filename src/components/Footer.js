@@ -61,11 +61,11 @@ function Footer() {
                 <div className='social-media-wrap'>
                     <div className='footer-logo'>
                         <Link to='/' className='social-logo'>
-                            TRVL <i className='fab fa-typo3' />
+                            Viata <i className='fab fa-typo3' />
                         </Link>
                     </div>
                     <small className='website-rights'>
-                        TRVL C 2021
+                        Viata C 2021
                     </small>
                     <div className='social-icons'>
                         <Link

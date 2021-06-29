@@ -8,7 +8,7 @@
   .home,
   .services,
   .products,
-  .about_us {
+  .sign_up {
     display: flex;
     height: 90vh;
     align-items: center;
@@ -34,7 +34,7 @@
     font-size: 100px;
   }
   
-  .about_us {
+  .sign_up {
     background-image: url('./images/img-5.jpg');
     background-position: center;
     background-size: cover;
